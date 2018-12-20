@@ -1,10 +1,4 @@
 
-作者| 孙科伟
----|---
-Email|sunkeweimail@163.com
-QQ | 1419266210
-
----
 
 学习login的登陆和注册，注销。以及django的表单操作。
 [参考文档](https://www.cnblogs.com/maple-shaw/p/7464131.html)
@@ -27,7 +21,15 @@ QQ | 1419266210
 ```
 git clone https://github.com/bluetom520/zabbix-weixin-picture.git
 ```
-依赖包
-```
+
+---
+
+作者| 孙科伟
+---|---
+Email|sunkeweimail@163.com
+QQ | 1419266210
+
+
+
 
 
